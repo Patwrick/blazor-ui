@@ -83,7 +83,6 @@ kendo-tabstrip {
     #app-title::after {
         content: "";
         width: $spacer * 1.5;
-        border-bottom: 2px solid $primary;
         position: absolute;
         left: 0;
         top: $font-size-h1 + $font-size-h2 + ( $spacer * 1.5 );
